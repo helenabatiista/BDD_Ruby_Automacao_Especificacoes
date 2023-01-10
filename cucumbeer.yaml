@@ -1,0 +1,7 @@
+---
+#isso faz com que o comnado cucumber vire o > format html
+#se eu quiser ver os cenarios no cmd é só apagar essa pagina
+default: -p html -p bdd
+html: --format html --out=log/features.html
+dot: --format progress
+bdd: --format pretty

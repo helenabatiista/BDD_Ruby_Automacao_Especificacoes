@@ -21,11 +21,11 @@ Funcionalidade: Login
             Então devo ver a seguinte mensagem "<alerta>"
 
             Exemplos:
-            |          email          |  senha   |           alerta            |
-            | camilaverass@icloud.com | xpto123  | Senha inválida.             |
-            | camilaverass@icloud.net | xpto123  | Usuário não cadastrado.     |
-            | camilaverassicloud.net  | xpto123  | Email incorreto ou ausente. |
-            |                         | asdasdad | Email incorreto ou ausente. |
+            |          email           |  senha   |           alerta            |
+            | helenabatista@icloud.com | xpto123  | Senha inválida.             |
+            | helenabatista@icloud.net | xpto123  | Usuário não cadastrado.     |
+            | helenabatistaicloud.net  | xpto123  | Email incorreto ou ausente. |
+            |                          | asdasdad | Email incorreto ou ausente. |
 
     
 

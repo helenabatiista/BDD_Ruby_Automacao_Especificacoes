@@ -1,4 +1,4 @@
-# BDD_Ruby_Automacao_Especificacoes
+# Ruby_Automacao_Especificacoes
 
 Teste automatizado BDD com Cucumber e Ruby
 Este teste é apresentado como uma maneira de aplicar agilidade na rotina de testes do QA
